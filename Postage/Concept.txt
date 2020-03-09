@@ -1,4 +1,17 @@
-﻿            //Info: Stamps / Priority / Express / First-Class / Global
+﻿            Get mail item size and weight
+
+            Determine the type of mail it is: Postcard, letter, envelope, or parcel
+            -Make class to find(l, h, t, w)
+            
+            Distance to be mailed
+
+            Cost
+
+            Additional express option and price
+
+            //////////////////////////////////////////////////////////////
+            
+            //Info: Stamps / Priority / Express / First-Class / Global
             //Provide list of common costs to reference in calculating costs
 
             //Type: Postcard, letter, envelope, package
